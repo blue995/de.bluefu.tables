@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.bluefu.tables/de.bluefu.tables.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.bluefu.tables/runtime/de.bluefu.tables.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/de.bluefu.tables/sandbox/de.bluefu.tables.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

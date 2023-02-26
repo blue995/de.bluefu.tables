@@ -1,0 +1,6 @@
+# Project exclude paths
+/languages/de.bluefu.tables/classes_gen/
+/languages/de.bluefu.tables/generator/classes_gen/
+/languages/de.bluefu.tables/sandbox/classes_gen/
+source_gen
+source_gen.caches
